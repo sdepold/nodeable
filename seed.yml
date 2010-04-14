@@ -1,0 +1,5 @@
+---
+  name: nodeable
+  description: Prototype inspired helper package for node.js
+  tags: helpers prototype
+  version: 0.0.1
